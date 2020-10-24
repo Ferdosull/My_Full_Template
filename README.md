@@ -15,3 +15,9 @@ The CLI knowledge gained during the creating of this website will be invaluable 
 ## Technology
 
 This project was written in HTML & CSS using GitPod and is currently hosted on GitHub pages.
+
+## Responsive Design
+
+You can check out how my webpage looks accross different display formats [here](http://ami.responsivedesign.is/?url=https%3A%2F%2Fferdosull.github.io%2FMy_Full_Template%2Findex.html)
+
+Thanks you for reading.
